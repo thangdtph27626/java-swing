@@ -65,14 +65,12 @@ public class Book implements Serializable{
 
 Khởi tạo giao diện swing 
 
-chọn Jframe form 
 ![image](https://github.com/thangdtph27626/java-swing/assets/109157942/5f0aab3b-6975-44ee-93d7-97db9b9835e8)
 
-chọn tab design 
 
 ![image](https://github.com/thangdtph27626/java-swing/assets/109157942/226ef443-7ac1-4fbb-bf4d-8219ce614282)
 
-bạn chọn tab source để thực hiện các thao tác thêm sửa xóa 
+> bạn chọn tab source để thực hiện các thao tác thêm sửa xóa 
 
 ```
 package com.thang.main;
