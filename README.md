@@ -334,3 +334,5 @@ public class Main extends javax.swing.JFrame {
 }
 
 ```
+
+Bạn có thể tham khảo cách tách ra file service [tại đây](https://github.com/HangNT169/MOB1023_IT17304_BL1_SUM22/blob/master/src/B7_BaiMauCURD_TachService/ViewSinhVien.java)
